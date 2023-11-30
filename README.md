@@ -1,5 +1,5 @@
 # microfinance_services_ML
-Code and Paper - Microfinance Services: Using Machine Learning to Predict Feasibility in Kenya
+Microfinance Services: Using Machine Learning to Predict Feasibility in Kenya - Code and Paper 
 
 During my time at the Chinese University ok Hong Kong I had the chanche to improve my data science skills through different courses. Among them, an advanced economics model that had me using machine learning to make predictions on a topic of choiche. For my final paper, I decided to use machine learning in Python to predict microfinance services performance using the following Kaggle dataset with data from Kenya: Kinuthia, R. (2018). Islamic Microfinance Services Feasibility Study. Retrieved from https://www.kaggle.com/datasets/rkinuthia/islamic-microfinance-services-feasibility-study. 
 
